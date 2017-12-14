@@ -1,1 +1,1 @@
-# tensorflow-lite-sample
+# NOT USEFUL YET!!
