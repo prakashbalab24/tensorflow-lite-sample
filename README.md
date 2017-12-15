@@ -1,1 +1,1 @@
-# NOT USEFUL YET!!
+# Tensorflow lite demo android app
